@@ -1,6 +1,6 @@
 {
   "name": "@tiddo/html-template",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Template tag for safe html templates",
   "main": "index.js",
   "author": "Tiddo Langerak <tiddolangerak@gmail.com> (https://github.com/TiddoLangerak/)",
